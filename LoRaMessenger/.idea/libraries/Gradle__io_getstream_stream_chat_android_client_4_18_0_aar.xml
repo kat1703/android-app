@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: io.getstream:stream-chat-android-client:4.18.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/50f05224234ac644d7edb7a0e8eb7344/transformed/jetified-stream-chat-android-client-4.18.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/50f05224234ac644d7edb7a0e8eb7344/transformed/jetified-stream-chat-android-client-4.18.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/50f05224234ac644d7edb7a0e8eb7344/transformed/jetified-stream-chat-android-client-4.18.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.getstream/stream-chat-android-client/4.18.0/8faace1356bd155a459a7e4b0f1e141ab5e47519/stream-chat-android-client-4.18.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.getstream/stream-chat-android-client/4.18.0/ff5cf24d30dda09be610247b190d4b93cec3ec69/stream-chat-android-client-4.18.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

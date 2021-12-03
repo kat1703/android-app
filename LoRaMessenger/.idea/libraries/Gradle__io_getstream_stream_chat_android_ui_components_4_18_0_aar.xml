@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: io.getstream:stream-chat-android-ui-components:4.18.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/c027ea94ec4ca3cb79c647e0f841245e/transformed/jetified-stream-chat-android-ui-components-4.18.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c027ea94ec4ca3cb79c647e0f841245e/transformed/jetified-stream-chat-android-ui-components-4.18.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c027ea94ec4ca3cb79c647e0f841245e/transformed/jetified-stream-chat-android-ui-components-4.18.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.getstream/stream-chat-android-ui-components/4.18.0/c8ac911a929a3f9940838b728478bd96ca54e4e9/stream-chat-android-ui-components-4.18.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.getstream/stream-chat-android-ui-components/4.18.0/3ea233584c1ae96d7e4b4e86240f2be97222c9c3/stream-chat-android-ui-components-4.18.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

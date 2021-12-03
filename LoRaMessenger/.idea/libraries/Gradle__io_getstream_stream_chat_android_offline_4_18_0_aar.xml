@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: io.getstream:stream-chat-android-offline:4.18.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/95b900ebb02db7ebeb3affb562ab1736/transformed/jetified-stream-chat-android-offline-4.18.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/95b900ebb02db7ebeb3affb562ab1736/transformed/jetified-stream-chat-android-offline-4.18.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/95b900ebb02db7ebeb3affb562ab1736/transformed/jetified-stream-chat-android-offline-4.18.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.getstream/stream-chat-android-offline/4.18.0/b81bb36b0093fe4a1f81588bb45a203a9bdbc18a/stream-chat-android-offline-4.18.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.getstream/stream-chat-android-offline/4.18.0/4b0ace698525ee1cb2e6552280a1b81b7a1b597e/stream-chat-android-offline-4.18.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

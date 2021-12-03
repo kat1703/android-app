@@ -122,6 +122,7 @@ public class ConnectToDeviceActivity extends AppCompatActivity implements BLECon
 
             }
         });
+        startActivity(new Intent(ConnectToDeviceActivity.this, MainActivity.class));
     }
 
     @Override
